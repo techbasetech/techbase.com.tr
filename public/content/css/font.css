@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(../woff/google-opensans-bold-v6.woff) format('woff');  
+}
+@font-face {
+  font-family: 'Expletus Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Expletus Sans Bold'), local('ExpletusSans-Bold'), url(../woff/google-expletus-sans-bold-v4.woff) format('woff');
+}
+@font-face {
+  font-family: 'Expletus Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Expletus Sans SemiBold'), local('ExpletusSans-SemiBold'), url(../woff/google-expletus-sans-semi-bold-v4.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(../woff/google-open-sans-italic-v6.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(../woff/google-opensans-v6.woff) format('woff');
+}
