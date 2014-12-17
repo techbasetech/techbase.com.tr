@@ -1,0 +1,22 @@
+{
+  "name": "techbase.com.tr",
+  "version": "1.0.0",
+  "description": "techbase-web ============",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/techbasetech/techbase.com.tr.git"
+  },
+  "author": "unluonur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techbasetech/techbase.com.tr/issues"
+  },
+  "homepage": "https://github.com/techbasetech/techbase.com.tr",
+  "dependencies": {
+    "express": "^4.10.6"
+  }
+}
